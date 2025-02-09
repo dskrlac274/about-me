@@ -49,7 +49,7 @@ I'm a passionate developer driven by curiosity and a love for solving problems t
 
 ### 🌐 Let's Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/daniel-skrlac)
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-skrlac)
 
 ---
 
