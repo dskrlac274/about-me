@@ -34,19 +34,6 @@ I'm a passionate developer driven by curiosity and a love for solving problems t
 
 ---
 
-### 🎯 A Few Highlights:
-- 🔥 Always exploring new tech and frameworks to stay ahead of the curve.
-- 💡 Building practical solutions and experimenting with cutting-edge technologies.
-- 🌟 Aiming to create impactful and scalable projects.
-
----
-
-### 💬 Fun Facts About Me:
-- 🚀 **Why I code:** The satisfaction of solving a challenging problem is unmatched.
-- 🍕 **Favorite debugging snack:** Pizza (bonus points for pepperoni).
-
----
-
 ### 🌐 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-skrlac)
