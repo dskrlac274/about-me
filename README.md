@@ -38,10 +38,4 @@ I'm a passionate developer driven by curiosity and a love for solving problems t
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-skrlac)
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <p align="center">⭐️ If you enjoy my work, consider giving my repos a star!</p>
